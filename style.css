@@ -1,0 +1,57 @@
+#navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+button{
+    color:blanchedalmond;
+    background-color:gray;
+    border-radius: 5px;
+   height: 25px;
+   padding-left: 20px;
+  
+}
+
+#logo{
+    color: white;
+    font-size: 25px;
+    margin: 30px;
+   
+    
+   
+}
+
+a{
+    margin-right: 100px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    
+}
+h2{
+    color: rgb(0, 255, 64);
+    font-size: 30px;
+    font-family: serif;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+p{
+    color:white;
+    font-size: 20px;
+    font-family: serif;
+    padding-left: 50px;
+}   
+img{
+   
+    margin-left: 580px;
+    border-radius: 10pxpx;
+    display: inline block;
+    height: 240px;
+    
+}
+body{
+    background-color: burlywood;
+   
+   
+}
